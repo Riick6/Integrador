@@ -15,6 +15,8 @@ public class main {
      */
     public static void main(String[] args) {
         System.out.println("hoalsdsd");
+        System.out.println("asdsada");
+        System.out.println("este es otro mensaje");
     }
     
 }
