@@ -20,6 +20,7 @@ public class Pruebas extends javax.swing.JFrame {
      */
     public Pruebas() {
         initComponents();
+       
     }
 
     /**
